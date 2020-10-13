@@ -1,0 +1,144 @@
+ls
+pwd
+history
+exit
+pwd
+pwd -P
+pwd --help
+pwd 
+cd ~
+pwd
+cd ..
+pwd
+exit
+echo mansi is aws
+echp -E yolo solo
+echo -E yolo solo
+echo --help
+exi
+exit
+echo --help
+echo mansi eco
+exit
+cd -L ..
+pwd
+cd ..
+pwd
+ cd 
+exirt
+exit
+cd -L ..
+cd ..
+pwd
+cd -L mansisinghal
+exit
+cwd -L ..
+pwd
+cd -L ..
+pwd
+exit
+cd
+cd ~
+exit
+cd ..
+pwd
+cd Answer2
+pwd
+mkdir new1 new2
+mymkdir 
+mymkdir new1
+ls
+ls -1
+mymkdir new1
+mymkdir -v new
+mkdir -v hellooo
+date
+date -u
+cd a
+ls
+rm heyy
+ls
+mkdir kk
+exit
+pwd
+ls
+lsm-1
+ls -1
+cd b
+ls
+mkdir pls2
+exit
+ls -1
+cd b
+ls -1
+mkdir new1 new2
+rm hooo
+ls -1
+date 
+date -u
+history
+pwd
+cat t1 t2
+ls
+cat t1.txt t2.txt
+exit
+cd b
+ls
+cat t1.txt t2.txt
+echo os assignment test case
+exit
+pwd
+cd b
+cat t1.txt t2.txt
+echo hey guys os 
+exit
+exit
+exit
+pwd
+cd ..
+pwd
+exit
+exit
+exit
+
+
+
+
+
+
+
+
+pwd
+cd ..
+history
+exit
+date
+exit
+exit
+exit
+exit
+pwd
+cd
+cd ..
+pwd
+date
+ld
+ls
+exit
+mkdir s dir spa
+exit
+mkdir s ko ko
+exit
+mkdir s yo lo
+mkdir mansioo
+pwd
+cd ..
+pwd
+ls
+ls -1
+ls -a
+exit
+pwd
+exit
+mkdir kk(
+mkdir hh*d
