@@ -5,17 +5,17 @@ The options and commands that MyOwnShell takes are described in detail below:
 
 EXTERNAL COMMANDS:
 
-1. mkdir
-Usage: mkdir [OPTION]... DIRECTORY…
-Any number of directories can be given as an input there is no limit on that.
-Options: -v, --help
-Errors handled:
-➔ If no directory name is provided then an error is thrown.
-➔ If directory couldn’t be created due to some reason then an error is thrown.
+1. mkdir <br />
+Usage: mkdir [OPTION]... DIRECTORY… <br />
+Any number of directories can be given as an input there is no limit on that. <br />
+Options: -v, --help <br />
+Errors handled: <br />
+➔ If no directory name is provided then an error is thrown. <br />
+➔ If directory couldn’t be created due to some reason then an error is thrown. <br />
 
-2. cat
-Usage: cat [OPTION]... [FILE]..
-Any number of files can be given as an input there is no limit on that.
+2. cat <br />
+Usage: cat [OPTION]... [FILE].. <br />
+Any number of files can be given as an input there is no limit on that. <br />
 Options: -n, --help
 Errors handled:
 ➔ If the given file doesn’t open or doesn’t exist then an error will be thrown.
